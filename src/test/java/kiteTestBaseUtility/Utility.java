@@ -26,7 +26,7 @@ public static void captureScreenshot(WebDriver driver, int TCID) throws IOExcept
 		FileHandler.copy(source, destination);
 }
 //@SuppressWarnings("deprecation")
-//public void Waitfor(WebDriver driver, int A)
+//public void Wait for(WebDriver driver, int A)
 //{
 //		driver.manage().timeouts().implicitlyWait(A, TimeUnit.SECONDS);
 //}
